@@ -22,19 +22,19 @@ Each citizen report is cross-referenced with satellite data and nearby report de
 
 <table>
   <tr>
-    <td align="center"><img src="docs/screenshots/screenshot-01.png" width="220" alt="Screen 1"/></td>
-    <td align="center"><img src="docs/screenshots/screenshot-02.png" width="220" alt="Screen 2"/></td>
-    <td align="center"><img src="docs/screenshots/screenshot-03.png" width="220" alt="Screen 3"/></td>
+    <td align="center"><img src="docs/screenshots/screenshot-01.png" width="360" alt="Screen 1"/></td>
+    <td align="center"><img src="docs/screenshots/screenshot-02.png" width="360" alt="Screen 2"/></td>
+    <td align="center"><img src="docs/screenshots/screenshot-03.png" width="360" alt="Screen 3"/></td>
   </tr>
   <tr>
-    <td align="center"><img src="docs/screenshots/screenshot-04.png" width="220" alt="Screen 4"/></td>
-    <td align="center"><img src="docs/screenshots/screenshot-05.png" width="220" alt="Screen 5"/></td>
-    <td align="center"><img src="docs/screenshots/screenshot-06.png" width="220" alt="Screen 6"/></td>
+    <td align="center"><img src="docs/screenshots/screenshot-04.png" width="360" alt="Screen 4"/></td>
+    <td align="center"><img src="docs/screenshots/screenshot-05.png" width="360" alt="Screen 5"/></td>
+    <td align="center"><img src="docs/screenshots/screenshot-06.png" width="360" alt="Screen 6"/></td>
   </tr>
   <tr>
-    <td align="center"><img src="docs/screenshots/screenshot-07.png" width="220" alt="Screen 7"/></td>
-    <td align="center"><img src="docs/screenshots/screenshot-08.png" width="220" alt="Screen 8"/></td>
-    <td align="center"><img src="docs/screenshots/screenshot-09.png" width="220" alt="Screen 9"/></td>
+    <td align="center"><img src="docs/screenshots/screenshot-07.png" width="360" alt="Screen 7"/></td>
+    <td align="center"><img src="docs/screenshots/screenshot-08.png" width="360" alt="Screen 8"/></td>
+    <td align="center"><img src="docs/screenshots/screenshot-09.png" width="360" alt="Screen 9"/></td>
   </tr>
 </table>
 
